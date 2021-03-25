@@ -123,15 +123,23 @@ h3.heading {
 
 .products img{
   width: 100%;
+  height: 25rem;
 }
 
+.products h3{
+  padding-top: 2rem;
+}
+
+#products{
+  background-color: white;
+}
 
 /*Footer*/
 
 footer{
 	background:orangered;
   padding-top: 5rem;
-	padding: 2.5rem 0 2.5rem;
+	padding: 2.5rem 0 3rem;
   margin: 0;
   border-radius: 0;
 }
